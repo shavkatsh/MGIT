@@ -1,2 +1,4 @@
 ZZTEST4.int
 ZZTEST5.int
+ZZTEST6.int
+ZZTEST7.int

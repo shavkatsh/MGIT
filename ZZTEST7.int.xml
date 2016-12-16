@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Routine name="ZZTEST7" type="INT" languagemode="0"><![CDATA[
+ZZTEST7	;
+	W "TEST5"
+	Q
+	;
+]]></Routine>
+</Export>
