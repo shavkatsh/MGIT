@@ -2,8 +2,7 @@
 <Export generator="Cache" version="25">
 <Routine name="ZZTEST8" type="INT" languagemode="0"><![CDATA[
 ZZTEST8	;
-	W "TEST8"
-	W "TEST88"
+	W "TEST9"
 	Q
 	;
 ]]></Routine>
