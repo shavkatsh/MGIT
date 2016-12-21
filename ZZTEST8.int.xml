@@ -5,6 +5,7 @@ ZZTEST8	;
 	W "TEST8"
 	W "TEST88"
 	W "TEST8889"
+	W "TEST00000000"
 	Q
 	;
 ]]></Routine>
